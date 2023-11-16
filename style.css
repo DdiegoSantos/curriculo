@@ -104,6 +104,21 @@
         margin: auto 5px;
         box-shadow: #333 2px 2px 3px;
     }
+   #end img {
+        width: 25px;
+        height: 25px;
+        border: none;
+        margin: auto 5px;
+        box-shadow: #333 2px 2px 3px;
+    }
+
+    #end {
+        
+        width: 100%;
+        display: flex;
+        flex-wrap: nowrap;
+        margin: 8px 0;
+    }
 
     #tel {
         max-width: 220px;
